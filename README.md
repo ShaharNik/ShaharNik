@@ -1,7 +1,6 @@
 ### Hi there 👋🏽
-I'm Shahar Niknazar, currently a third year student in computer science at Ariel University 💻 <br />
+I'm Shahar Niknazar, computer science student from Ariel university looking for position as a programmer. 💻 <br />
 📫 Reach Me: shaharnik1@gmail.com
-
 <!--
 **ShaharNik/ShaharNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
